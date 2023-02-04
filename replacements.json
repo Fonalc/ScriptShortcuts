@@ -1,6 +1,5 @@
 {
 "prefix": "--",
-"updateMessage": "JSON Has been edited, New shortcut added",
 "Shortcuts": {
   "ping": "pong",
   "player": {
