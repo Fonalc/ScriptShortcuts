@@ -1,5 +1,5 @@
 {
-"prefix": "--",
+"prefix": "//",
 "Shortcuts": {
   "ping": "pong",
   "player": {
