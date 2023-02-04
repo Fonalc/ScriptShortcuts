@@ -1,16 +1,12 @@
 {
-"prefix": "--",
-"Shortcuts": {
-  "ping": "pong",
-  "player": {
-    	"local Player",
-	"game:GetService('Players').PlayerAdded:Connect(function(plr)",
-	"Player = plr",
-	"end)"
+  "prefix": "--",
+  "Shortcuts": {
+    "ping": "pong",
+    "player": {
+      "0": "local Player",
+      "1": "game.Players.PlayerAdded:Connect(function(plr)",
+      "2": "Player = plr",
+      "3": "end)"
+    }
   }
- "for": {
-	"for a,i in pairs(workspace:GetChildren()) do",
-	"--code",
-	"end"
-}
 }
