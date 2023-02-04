@@ -3,13 +3,9 @@
 "Shortcuts": {
   "ping": "pong",
   "player": {
-    ["LocalScript"]: "local Player = game.Players.LocalPlayer"
-    ["Script"]: {
-        "local Player",
-        "game.Players.PlayerAdded:connect(function(plr)",
-        "Player = plr",
-        "end)"
-      }
-    }
+    		"local Player",
+	   		"game:GetService('Players').PlayerAdded:Connect(function(plr)",
+				"	Player = plr",
+				"end)"
   }
 }
