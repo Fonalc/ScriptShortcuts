@@ -1,4 +1,6 @@
 {
 "prefix": "--",
+["Shortcuts"]: {
 "ping": "pong"
+}
 }
