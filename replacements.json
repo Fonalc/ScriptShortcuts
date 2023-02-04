@@ -1,5 +1,5 @@
 {
-"prefix": "//",
+"prefix": "--",
 "Shortcuts": {
   "ping": "pong",
   "player": {
@@ -8,4 +8,9 @@
 	"Player = plr",
 	"end)"
   }
+ "for": {
+	"for a,i in pairs(workspace:GetChildren()) do",
+	"--code",
+	"end"
+}
 }
