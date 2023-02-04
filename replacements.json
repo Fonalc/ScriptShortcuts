@@ -6,7 +6,7 @@
       "0": "local Player",
       "1": "game.Players.PlayerAdded:Connect(function(plr)",
       "2": "Player = plr",
-      "3": "end)"
+      "3": "end) --hi"
     }
   }
 }
